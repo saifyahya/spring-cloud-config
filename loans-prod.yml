@@ -1,0 +1,11 @@
+build:
+  version: "1"
+
+contact:
+  message: "Production Contact Information - Loans MS"
+  contact-details:
+    name: "saif yahya"
+    email: "syahya@test.com"
+  phones:
+    - 1234567890
+    - 9876543210

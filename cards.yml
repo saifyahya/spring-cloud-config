@@ -1,0 +1,13 @@
+
+build:
+  version: "2"
+
+contact:
+  message: "Developer Contact Information -Cards MS"
+  contact-details:
+    name: "saif yahya"
+    email: "syahya@test.com"
+  phones:
+  - 1234567890
+  - 9876543210
+

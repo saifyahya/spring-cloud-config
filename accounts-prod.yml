@@ -1,0 +1,11 @@
+build:
+  version: "2"
+
+contact:
+  message: "Production Contact Information - Cards MS file inside local machine folder system"
+  contact-details:
+    name: "saif yahya"
+    email: "syahya@test.com"
+  phones:
+    - 1234567890
+    - 9876543210
