@@ -2,7 +2,7 @@ build:
   version: "1"
 
 contact:
-  message: "Production Contact Information - Loans MS"
+  message: "Production Contact Information - Loans MS from github repo"
   contact-details:
     name: "saif yahya"
     email: "syahya@test.com"
